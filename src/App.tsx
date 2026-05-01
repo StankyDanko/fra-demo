@@ -2,6 +2,7 @@ import { Nav } from './components/Nav'
 import { Hero } from './components/Hero'
 import { About } from './components/About'
 import { CampusLife } from './components/CampusLife'
+import { Showcase } from './components/Showcase'
 import { Academics } from './components/Academics'
 import { Athletics } from './components/Athletics'
 import { Admissions } from './components/Admissions'
@@ -15,6 +16,7 @@ export default function App() {
       <Hero />
       <About />
       <CampusLife />
+      <Showcase />
       <Academics />
       <Athletics />
       <Admissions />
