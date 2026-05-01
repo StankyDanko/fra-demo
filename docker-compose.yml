@@ -1,0 +1,7 @@
+services:
+  fra-demo:
+    image: localhost/fra-demo:latest
+    container_name: fra-demo
+    restart: unless-stopped
+    ports:
+      - "4005:3000"

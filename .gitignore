@@ -1,6 +1,5 @@
 node_modules
 dist
 .vite
-*.png
-*.jpeg
 .playwright-mcp
+archive/

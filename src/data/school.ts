@@ -50,15 +50,15 @@ export const divisions = [
 ]
 
 export const sports = [
-  { name: 'Football', coach: 'Mark Wilson', season: 'Fall', icon: 'football' },
-  { name: 'Softball', coach: 'Chris Callahan', season: 'Fall', icon: 'softball' },
-  { name: 'Baseball', coach: 'Nick Salter', season: 'Spring', icon: 'baseball' },
-  { name: 'Boys Basketball', coach: 'Bob Yevak', season: 'Winter', icon: 'basketball' },
-  { name: 'Girls Basketball', coach: 'Jennifer Petitt', season: 'Winter', icon: 'basketball' },
-  { name: 'Track & Field', coach: 'Blake Clark', season: 'Spring', icon: 'track' },
-  { name: 'Cheerleading', coach: 'Krystal Peavy', season: 'Year-Round', icon: 'cheer' },
-  { name: 'Shotgun', coach: 'Brian McDaniel', season: 'Fall/Spring', icon: 'target' },
-  { name: 'Twirl', coach: 'Joni Johnson', season: 'Fall', icon: 'star' },
+  { name: 'Football', coach: 'Mark Wilson', season: 'Fall', image: 'images/sports/football.jpg' },
+  { name: 'Softball', coach: 'Chris Callahan', season: 'Fall', image: 'images/sports/softball.jpg' },
+  { name: 'Baseball', coach: 'Nick Salter', season: 'Spring', image: 'images/sports/baseball.jpg' },
+  { name: 'Boys Basketball', coach: 'Bob Yevak', season: 'Winter', image: 'images/sports/boys-basketball.jpg' },
+  { name: 'Girls Basketball', coach: 'Jennifer Petitt', season: 'Winter', image: 'images/sports/girls-basketball.jpg' },
+  { name: 'Track & Field', coach: 'Blake Clark', season: 'Spring', image: 'images/sports/track.jpg' },
+  { name: 'Cheerleading', coach: 'Krystal Peavy', season: 'Year-Round', image: 'images/sports/cheerleading.jpg' },
+  { name: 'Shotgun', coach: 'Brian McDaniel', season: 'Fall/Spring', image: 'images/sports/shotgun.jpg' },
+  { name: 'Twirl', coach: 'Joni Johnson', season: 'Fall', image: 'images/sports/twirl.jpg' },
 ]
 
 export const administration = [

@@ -20,8 +20,12 @@ export function Hero() {
           transition={{ duration: 0.8 }}
           className="mb-6"
         >
-          <div className="w-24 h-24 mx-auto rounded-full border-2 border-fra-gold/40 flex items-center justify-center mb-6">
-            <span className="text-fra-gold font-serif font-bold text-2xl">FRA</span>
+          <div className="w-28 h-28 mx-auto mb-6">
+            <img
+              src={`${import.meta.env.BASE_URL}images/logo.png`}
+              alt="Flint River Academy"
+              className="w-full h-full object-contain"
+            />
           </div>
         </motion.div>
 
